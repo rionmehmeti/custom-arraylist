@@ -1,4 +1,4 @@
-package ora7;
+
 
 public class ArrayListCustomDemo {
     public static void main(String[] args) {
